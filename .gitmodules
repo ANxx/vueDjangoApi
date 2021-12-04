@@ -1,0 +1,3 @@
+[submodule "vueiris"]
+	path = vueiris
+	url = ./Vue/vueiris
